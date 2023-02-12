@@ -1,4 +1,4 @@
-cription :label:
+Description :label: Air BnB Clone by Uju and Sunday
 
 ## 
 
